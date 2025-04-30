@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Václav a passionate developer from Czech Republic 🇨🇿</h1>
+<h1 align="left">Hi 👋! I'm Václav, a passionate developer from Czech Republic 🇨🇿</h1>
 
 ###
 
