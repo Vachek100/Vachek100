@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Václav and I'm a passionate developer from Czech Republic</h1>
+<h1 align="left">Hi 👋! My name is Václav a passionate developer from Czech Republic 🇨🇿</h1>
 
 ###
 
@@ -27,6 +27,11 @@
 </div>
 
 ###
+
 <img src="https://raw.githubusercontent.com/Vachek100/Vachek100/output/snake.svg" alt="Snake animation" />
+
 ###
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
