@@ -15,9 +15,12 @@
 # 📊 GitHub Stats:
 
 
-<div align="center">
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vachek100&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-</div>
+
+![](https://github-readme-stats.vercel.app/api?username=Vachek100&theme=gruvbox&hide_border=true&include_all_comm
+![](https://nirzak-streak-stats.vercel.app/?user=Vachek100&theme=gruvbox&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vachek100&theme=gruvbox&hide_border=true&inclu
+                                                                                                            
+
 
 ###
 # 🌐 Socials:
