@@ -35,10 +35,6 @@
 
 ###
 
-<img align="left" height="150" src="https://i.pinimg.com/originals/2d/02/f1/2d02f1b440163529c321599a51cf4ef6.gif"  />
-
-###
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Vachek100/Vachek100/output/snake.svg" alt="Snake animation" />
