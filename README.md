@@ -10,7 +10,7 @@
 
 ###
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vachek101&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vachek100&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ###
 # 🌐 Socials:
