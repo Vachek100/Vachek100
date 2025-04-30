@@ -20,7 +20,7 @@
 </div>
 
 ###
-
+# 🌐 Socials:
 <div align="left">
   <a href="https://www.instagram.com/vaclav.kralik/#" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -45,4 +45,3 @@
 
 ###
 
-[![](https://visitcount.itsvg.in/api?id=Vachek100&icon=0&color=0)](https://visitcount.itsvg.in)
