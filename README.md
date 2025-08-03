@@ -3,7 +3,7 @@
 ###
 
 <p align="left">🧑‍🎓 I am currently studying Computer Science at Vysoká škola báňská – Technická univerzita Ostrava</p>
-<p align="left">👩🏻‍💻💻</> I am now learning Python(AI, ML) 🤖🧠🧑‍💻🖥️⚙️🦾</p>
+<p align="left">🤖🧠🧑‍💻🖥️⚙️🦾 I am now learning Python(AI, ML)</p>
 
 ###
 # 💻 Tech Stack:
